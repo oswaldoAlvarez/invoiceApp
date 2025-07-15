@@ -1,5 +1,7 @@
 # Invoice App
 
+![Grabación de pantalla 2025-07-15 a la(s) 18 16 18](https://github.com/user-attachments/assets/67100176-39ea-47e1-b393-2ee74d4cddf3)
+
 A small performant React Native (Expo) app to list and filter crypto invoices.  
 Built for the technical challenge.
 
